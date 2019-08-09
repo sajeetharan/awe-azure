@@ -1,5 +1,5 @@
 # awe-azure
-A curated list of awesome Azure e Resource, libraries, open source repos, guides, blogs, and other resources.  
+A curated list of awesome Azure Resources, libraries, open source repos, guides, blogs, and other resources.  
 
 
 ## Newsfeeds, Updates, Roadmap
