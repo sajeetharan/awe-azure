@@ -27,12 +27,9 @@ Resources worth to follow to stay current with the Azure platform
 
 ## Libraries / Demos
 * [Azure serverless community library](https://serverlesslibrary.net) - Bunch of sample codes to get started with serverless
-* [All about CosmosDB in one place](https://gotcosmos.com/)
-- Code samples,workshops and presentations
-* [CosmicNotes](https://azurecosmosdb.github.io/CosmicNotes/) d
-- Drawings illustrating the main concepts of Azure Cosmos DB 
-* [Azure Devops Generator](https://azuredevopsdemogenerator.azurewebsites.net/)
-- Helps you create projects on your Azure DevOps Organization with pre-populated sample content 
+* [All about CosmosDB in one place](https://gotcosmos.com/) - Code samples,workshops and presentations
+* [CosmicNotes](https://azurecosmosdb.github.io/CosmicNotes/)- Drawings illustrating the main concepts of Azure Cosmos DB 
+* [Azure Devops Generator](https://azuredevopsdemogenerator.azurewebsites.net/)- Helps you create projects on your Azure DevOps Organization with pre-populated sample content 
 * [Migrate to Azure App Service](https://appmigration.microsoft.com/)
 -Assess any app with an endpoint scan. Download the Migration Assistant and start your .NET and PHP app migration to Azure App Service.
 
